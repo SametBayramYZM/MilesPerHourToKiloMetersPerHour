@@ -1,0 +1,10 @@
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\bin\Debug\MphToKmph.exe.config
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\bin\Debug\MphToKmph.exe
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\bin\Debug\MphToKmph.pdb
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\obj\Debug\MphToKmph.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\obj\Debug\MphToKmph.MphToKMph.resources
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\obj\Debug\MphToKmph.Properties.Resources.resources
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\obj\Debug\MphToKmph.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\obj\Debug\MphToKmph.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\obj\Debug\MphToKmph.exe
+C:\Users\Samet\source\repos\MphToKmph\MphToKmph\obj\Debug\MphToKmph.pdb
